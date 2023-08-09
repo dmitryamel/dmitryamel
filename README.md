@@ -2,9 +2,6 @@
 <h1 align="center">Hi! I'm Dmitry Amelin</h1>
 <h3 align="center">A data scientist based in Moscow</h3>
 
-![](https://komarev.com/ghpvc/?dmitryamel)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitryamel&label=Profile%20views&color=0eb429&style=flat" alt="dmitryamel" /> </p>
-
 - 🔭 I’m currently working on **Praktikum**
 
 - 👨‍💻 All of my projects are available at [here will be link](here will be link)
@@ -16,3 +13,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitryamel&show_icons=true&theme=radical)
+
+![](https://komarev.com/ghpvc/?dmitryamel)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitryamel&label=Profile%20views&color=0eb429&style=flat" alt="dmitryamel" /> </p>
