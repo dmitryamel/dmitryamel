@@ -2,11 +2,11 @@
 <h2 align="left">My name is Dmitry Amelin</h2>
 <h4 align="left">I'm a data scientist based in Moscow</h4>
 
-- :school: Graduated from Bauman Moscow State Techical University in 2019
+- 🏫: Graduated from Bauman Moscow State Techical University in 2019
 
 - 👨‍💻 Best of my projects are available at [here will be link](here will be link)
 
-- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) How to reach me **https://t.me/das_sound**            
+-#️⃣ You can type me on ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)  **https://t.me/das_sound**            
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
