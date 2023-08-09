@@ -1,12 +1,12 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?dmitryamel)
 <h3 align="center">Data Scientist</h3>
-
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitryamel&label=Profile%20views&color=0eb429&style=flat" alt="dmitryamel" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Kaggle page:</h3>
 <p align="left">
-<a href="https://kaggle.com/dmiitroamelin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dmiitroamelin" height="30" width="40" /></a>
+<a href="https://kaggle.com/dmiitroamelin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dmiitroamelin" height="30" width="40" /></a><a href="https://kaggle.com/dmiitroamelin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dmiitroamelin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
