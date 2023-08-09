@@ -1,6 +1,6 @@
 ![](banner.png)
-<h1 align="left">My name is Dmitry Amelin</h1>
-<h3 align="left">I'm a data scientist based in Moscow</h3>
+<h2 align="left">My name is Dmitry Amelin</h2>
+<h4 align="left">I'm a data scientist based in Moscow</h4>
 
 - :school: Graduated from Bauman Moscow State Techical University in 2019
 
@@ -8,6 +8,7 @@
 
 - 📫 How to reach me **https://t.me/das_sound**
 <br>
+
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
