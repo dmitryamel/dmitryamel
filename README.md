@@ -1,4 +1,3 @@
-### Hi there 👋
 ![](https://komarev.com/ghpvc/?dmitryamel)
 <h3 align="center">Data Scientist</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitryamel&label=Profile%20views&color=0eb429&style=flat" alt="dmitryamel" /> </p>
