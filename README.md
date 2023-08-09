@@ -2,7 +2,7 @@
 <h2 align="left">My name is Dmitry Amelin</h2>
 <h4 align="left">I'm a data scientist based in Moscow</h4>
 
-- 🏫: Graduated from Bauman Moscow State Techical University in 2019
+- 🏫 Graduated from Bauman Moscow State Techical University in 2019
 
 - 👨‍💻 Best of my projects are available at [here will be link](here will be link)
 
