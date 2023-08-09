@@ -6,7 +6,10 @@
 
 - 👨‍💻 Best of my projects are available at [here will be link](here will be link)
 
--#️⃣ You can type me on ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)  **https://t.me/das_sound**            
+- #️⃣ You can type me on Telegram: **https://t.me/das_sound**
+
+  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+  
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
