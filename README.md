@@ -7,6 +7,7 @@
 - 👨‍💻 Best of my projects are available at [here will be link](here will be link)
 
 - 📫 How to reach me **https://t.me/das_sound**
+<br>
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
