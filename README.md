@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?dmitryamel)
 <h3 align="center">Data Scientist</h3>
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitryamel&label=Profile%20views&color=0eb429&style=flat" alt="dmitryamel" /> </p>
 
 <h3 align="left">Connect with me:</h3>
