@@ -1,5 +1,5 @@
 ![](banner.png)
-<h2 align="left">My name is Dmitry Amelin</h2>
+<h2 align="left">Hello there!</h2>
 <h4 align="left">I'm a data scientist based in Moscow</h4>
 
 - 🏫 Graduated from Bauman Moscow State Techical University in 2019
