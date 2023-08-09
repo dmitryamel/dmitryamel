@@ -1,4 +1,3 @@
-![](header.png)
 ![](https://komarev.com/ghpvc/?dmitryamel)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitryamel&label=Profile%20views&color=0eb429&style=flat" alt="dmitryamel" /> </p>
 
@@ -8,4 +7,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmitryamel&show_icons=true&theme=dark&locale=en" alt="dmitryamel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmitryamel&" alt="dmitryamel" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=dmitryamel&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitryamel&show_icons=true&theme=radical)
