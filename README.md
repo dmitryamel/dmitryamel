@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?dmitryamel)
 <h3 align="center">Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmitryamel&label=Profile%20views&color=0eb429&style=flat" alt="dmitryamel" /> </p>
@@ -14,4 +15,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dmitryamel&show_icons=true&theme=dark&locale=en" alt="dmitryamel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmitryamel&" alt="dmitryamel" /></p>
-![Profile view](https://komarev.com/ghpvc/?username=dmitryamel&color=orange)
+
