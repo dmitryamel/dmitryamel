@@ -4,7 +4,7 @@
 
 - 🏫 Graduated from Bauman Moscow State Techical University in 2019
 - 👨‍💻 Best of my projects are available at [here will be link](here will be link)
-- 🧑‍🔬 Sometimes I participate in Kaggle's contests
+- 🧑‍🔬 Time-to-time I participate in Kaggle's contests
 
   ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
   
