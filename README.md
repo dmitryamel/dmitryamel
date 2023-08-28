@@ -8,7 +8,7 @@
 
   ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
   
-- #️⃣ You can type me on Telegram: **https://t.me/das_sound**
+- #️⃣ You can type me on Telegram: **https://t.me/das_ds**
 
   ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
   
