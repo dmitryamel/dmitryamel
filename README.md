@@ -1,6 +1,6 @@
 ![](banner.png)
 <h2 align="left">Hello there!</h2>
-<h4 align="left">I'm a data scientist based in Moscow</h4>
+<h4 align="left">I'm a data scientist\data analyst based in Moscow</h4>
 
 - 🏫 Graduated from Bauman Moscow State Techical University in 2019
 - 👨‍💻 Best of my projects are available on [repo](https://github.com/dmitryamel/portfolio)
